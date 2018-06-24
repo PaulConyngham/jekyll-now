@@ -4,7 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Hi i'm Paul, Machine Learning Engineer & founder of the Sydney Machine Learning group. This page contains a brief summary of all of my work in the Machine Learning field. If you would like to know more, read on:
+Hi i'm Paul, Machine Learning Engineer at Wattblock, StarAi project lead & founder of the Sydney Machine Learning group.
+
+My current focus is on applying Deep Learning to Building Strata metering data to determine what building services are present.
+
+In my spare time I am actively performing research in the field of Deep Reinforcement Learning
+
+This page contains a brief summary of all of my work in the Machine Learning field. If you would like to know more, read on:
 
 ### More Information
 
