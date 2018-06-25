@@ -60,10 +60,24 @@ entire machine learning project in C, I wrote up my own Reinforcment Learning Fr
  forgotten. This framework produced surprising results, most notably, the agent learning to navigate to the point in 2D
  space.
 
-I personally could not believe the result -  as I had not explicitly programmed in any "hard rules" into the system
+Personally, I could not believe the result -  as no "hard rules" had been programmed into the system
 other than the agent had access to the actions of moving left, right and accelerating in the direction it was currently
 pointing. What this meant is that the network had been able to infer some form of the "laws of motion" or pythagorean
 vectorization - all on its own. From this point on - I was hooked on machine learning.
+
+# 2010 - 2013
+
+### The Golden Years :)
+
+Take yourself back to the end of 2009. Machine Learning & Ai was not hyped at all. Infact up until 3 years ago (as of
+writing this June 2018), if you mentioned to people that you worked on artificial intelligence they would give you this
+funny look, then make the same crack joke about terminator. Point being was that there were not many jobs in the field,
+nor were the existing ones (traders, cough) advertised.
+
+Fresh out of University I headed for the promised land of Australia to seek my fortune. I actively practised as an
+consulting Electrical Engineer for both Parsons Brinckerhoff & Aurecon but needless to say, that I could not help seeing
+  how everyday mundane repetitive tasks done in this field might someday be automated with machine learning.
+
 
 
 ### Contact me
