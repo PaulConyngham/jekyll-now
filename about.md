@@ -6,6 +6,7 @@ permalink: /about/
 
 ### TLDR;
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 Hi i'm Paul, Machine Learning Engineer, StarAi project lead & founder of the Sydney Machine Learning group.
 
@@ -19,13 +20,15 @@ Outside of this I actively performing research in the field of Deep Reinforcemen
 This page contains a brief summary of my work in the field of Machine Learning since I got started back in 2009.
 If you would like to know more- read on:
 
-### In reverse chronological order:
+#### In reverse chronological order:
 
 # 2009
 
 ### Echo State Networks & Agents : My Introduction to Reinforcement Learning
 
 https://media.giphy.com/media/mMCMyT5Q6yvnFyloGi/giphy.gif
+
+![Alt Text](https://media.giphy.com/media/mMCMyT5Q6yvnFyloGi/giphy.gif)
 
 ![Johnny5]({{ https://media.giphy.com}}/media/mMCMyT5Q6yvnFyloGi/giphy.gif "Johnny5 thesis project")
 
