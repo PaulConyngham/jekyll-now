@@ -6,7 +6,7 @@ permalink: /about/
 
 ### TLDR;
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+[Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 Hi i'm Paul, Machine Learning Engineer, StarAi project lead & founder of the Sydney Machine Learning group.
 
@@ -30,7 +30,7 @@ https://media.giphy.com/media/mMCMyT5Q6yvnFyloGi/giphy.gif
 
 ![Alt Text](https://media.giphy.com/media/mMCMyT5Q6yvnFyloGi/giphy.gif)
 
-![Johnny5]({{ https://media.giphy.com}}/media/mMCMyT5Q6yvnFyloGi/giphy.gif "Johnny5 thesis project")
+[Johnny5]({{ https://media.giphy.com}}/media/mMCMyT5Q6yvnFyloGi/giphy.gif "Johnny5 thesis project")
 
 I first got started in Machine Learning by being thrown into the "Deep" end with my honours thesis project for my
 Electrical Engineering Degree. For this project I used an [Echo State Network (ESN)](http://www.scholarpedia
