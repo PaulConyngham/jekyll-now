@@ -39,21 +39,32 @@ Recurrent Neural Networks (RNNs) are incredibly expensive to train via algorithm
 Echo State Networks (ESNs) are a form of Recurrent Neural Networks (RNNs) developed to address the incredible
  "training" difficulty of vanilla RNNs- by having a fixed "reservoir" of randomly connected layers of virtual neurons, and
   a final "trainable" layer that connects to the "reservoir". Echo State Networks fall under the research branch of
-  "Liquid State Machines", a genre of Neural network that is known within research communities to closely match the
+  ["Liquid State Machines"](https://en.wikipedia.org/wiki/Liquid_state_machine), a genre of Neural network that is known within research communities to closely match the
   functionality of real neural networks of the human brain.
 
 The goal of this research project was to have an autonomous "agent" navigate to a random point in 2D space. Once it
-reached the goal, the point was reset and the agent would have to start over. By resetting the "final destination" like
-this, we were able to demonstrate that the agent was actually learning.
+reached the goal, the navigation point was reset and the agent would have to start over. By resetting the "final
+destination" like this, we were able to demonstrate that the agent was actually learning.
 
 Back in 2009, there were no fancy libraries like Pytorch & Tensorflow and I personally coded up the navigation
-environment in raw, pure C, and used ESN classes written by my supervisor, Dr Russell Webb.
+environment in pure C, and used ESN classes written by my supervisor, [Dr Russell Webb](https://www.linkedin.com/in/russ-webb-52a164/).
 
-In the video above, we can see the agent attempting to navigate
+In the video above, we can see the agent attempting to navigate to target point in space denoted by an X. The agent is
+represented by a simple arrow (to show the direction it is currently pointing).
 
 Continuing to code up the
 entire machine learning project in C, I wrote up my own Reinforcment Learning Framework to wrap the ESN classes provided
- by my supervisor such that the "reward signal" was the distance that the agent was away from the "X", the
+ by my supervisor such that the "reward signal" was the distance that the agent was away from the "X". Training was
+ achieved by instantiating two copies of the ESN Agent with slightly modified versions of the last layer of the ESN's
+ network. The copy of the ESN agents network that produced a higher reward was remembered, whilst the other was
+ forgotten. This framework produced surprising results, most notably, the agent learning to navigate to the point in 2D
+ space.
+
+I personally could not believe the result -  as I had not explicitly programmed in any "hard rules" into the system
+other than the agent had access to the actions of moving left, right and accelerating in the direction it was currently
+pointing. What this meant is that the network had been able to infer some form of the "laws of motion" or pythagorean
+vectorization - all on its own. From this point on - I was hooked on machine learning.
+
 
 ### Contact me
 
