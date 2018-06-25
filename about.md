@@ -82,4 +82,4 @@ consulting Electrical Engineer for both Parsons Brinckerhoff & Aurecon but needl
 
 ### Contact me
 
-[sydneymachinelearning@gmail.com](mailto:sydneymachinelearning@gmail.com)
+[paul@sydneymachinelearning.org](mailto:paul@sydneymachinelearning.org)
