@@ -107,9 +107,16 @@ have me on as a Masters student. No-one had heard of an Echo State State Network
 So I thought- to hell with them & decided to go lone wolf.
 
 From September 2014 to January 2015 I coded up a Neural Network in Java from first principles. In 2014 there was no 
-fancy [medium](https://medium.com/@paul.stevhttps://medium.com/@paul.steven.conyngham/how-to-get-blizzard-google-deepminds-pysc2-working-for-free-on-colabs-be2e68f18893en.conyngham/how-to-get-blizzard-google-deepminds-pysc2-working-for-free-on-colabs-be2e68f18893) blog posts telling you how to do everything - just a handful of html tutorials and of course - research 
+fancy [medium](https://medium.com/@paul.stevhttps://medium.com/@paul.steven
+.conyngham/how-to-get-blizzard-google-deepminds-pysc2-working-for-free-on-colabs-be2e68f18893en.conyngham/how-to-get-blizzard-google-deepminds-pysc2-working-for-free-on-colabs-be2e68f18893) blog posts telling you how to do everything - just a handful of html tutorials and of course - research 
 papers.
 
+I wrote up my Neural Network in Java because I thought that it would be a good way to reteach myself object 
+orientated programmming (OOP - which I learnt at Uni ). I though this would be a good idea because you can program up
+ a neural network in such a way that you could have a Neuron as a separate object, which in then inherited by *a 
+ layer of neurons*, which could then be inherited by a "Brain" object. 
+ 
+ 
 
 
 
