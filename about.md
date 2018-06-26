@@ -24,9 +24,9 @@ If you would like to know more- read on:
 
 ### Echo State Networks & Agents : My Introduction to Reinforcement Learning
 
-![Johnny5](https://media.giphy.com/media/mMCMyT5Q6yvnFyloGi/giphy.gif)
 
-<img src="https://media.giphy.com/media/mMCMyT5Q6yvnFyloGi/giphy.gif" data-canonical-src="https://media.giphy.com/media/mMCMyT5Q6yvnFyloGi/giphy.gif" width="200" height="400" />
+<img src="https://media.giphy.com/media/mMCMyT5Q6yvnFyloGi/giphy.gif" data-canonical-src="https://media.giphy
+.com/media/mMCMyT5Q6yvnFyloGi/giphy.gif" width="1000" height="800" />
 
 
 I first got started in Machine Learning by being thrown into the "Deep" end with my honours thesis project for my
@@ -98,8 +98,11 @@ the world & see it in a new light. I was lucky enough to visit all of the countr
 
 In June 2014 I returned to New Zealand after living in Canada for a year. The first thing I tried to do was get a 
 Masters in 
-Machine Learning. Again, you have to bare in mind that Machine Learning was not hyped yet. The hype was definitely NOT  
-real. I went around to 6 different professors at Victoria University, Wellington to try & pitch my idea of using the 
+Machine Learning. Again, you have to bare in mind that Machine Learning was not hyped yet. 
+
+The hype was definitely NOT real.
+ 
+I went around to 6 different professors at Victoria University, Wellington to try & pitch my idea of using the 
 same 
 ideas I had developed for my Echo State Network project of 2009 to control a drone.
 
