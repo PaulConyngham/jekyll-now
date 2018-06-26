@@ -67,24 +67,33 @@ vectorization - all on its own. From this point on - I was hooked on machine lea
 
 # 2010 - 2013
 
-### The years of Doubt.
+### The Years of Doubt.
 
-Take yourself back to the end of 2009. Machine Learning & Ai was not hyped at all. Infact up until 3 years ago (as of
-writing this June 2018), if you mentioned to people that you worked on artificial intelligence they would give you this
+Take yourself back to the end of 2009. Machine Learning & Ai was not hyped at all. In fact up until 3 years ago (as of
+writing this, June 2018), if you mentioned to people that you worked on artificial intelligence they would give you this
 funny look, then make the same crack joke about the Terminator. Point being was that there were not many jobs in the 
 field,
 nor were the existing ones (traders, cough) advertised.
 
 Fresh out of University I headed for the promised land of Australia to seek my fortune. I actively practised as an
-consulting Electrical Engineer for both Parsons Brinckerhoff & Aurecon but needless to say, that I was frustrated 
-because I could not help seeing how everyday mundane repetitive tasks done in this field might someday be automated with machine learning.
+consulting Electrical Engineer for both [WSP Parsons Brinckerhoff](http://www.wsp-pb.com/wsp-au-nz/) & [Aurecon](https://www.aurecongroup.com/) but 
+needless to say, that I was frustrated 
+because I could not help seeing how everyday mundane repetitive tasks in engineering might someday be automated with 
+machine learning. I pushed hard for some of my ML ideas to get implemented at these companies, but most people laughed &
+ no 
+one took Machine Learning seriously.
 
-All was not lost however! As the restlessness caused by the knowledge of how all this would change lead me to travel 
+All was not lost however! As the restlessness caused by the knowledge of how all this would change caused me to travel 
 the world & see it in a new light. I got to see all of the countries below:
 
 ![alt text](https://image.ibb.co/hP0q28/places_Ihave_Been.png)
 
+# 2014 - 2015
 
+### Neural Networks Revisited.
+
+After returning to New Zealand after living in Canada for a year, the first thing I tried to do was get a Masters in 
+Machine Learning. Again, you have to bare in mind the Machine Learning was not hyped yet. The hype was not real.
 
 
 ### Contact me
