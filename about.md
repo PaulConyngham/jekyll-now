@@ -67,16 +67,23 @@ vectorization - all on its own. From this point on - I was hooked on machine lea
 
 # 2010 - 2013
 
-### The Golden Years :)
+### The years of Doubt.
 
 Take yourself back to the end of 2009. Machine Learning & Ai was not hyped at all. Infact up until 3 years ago (as of
 writing this June 2018), if you mentioned to people that you worked on artificial intelligence they would give you this
-funny look, then make the same crack joke about terminator. Point being was that there were not many jobs in the field,
+funny look, then make the same crack joke about the Terminator. Point being was that there were not many jobs in the 
+field,
 nor were the existing ones (traders, cough) advertised.
 
 Fresh out of University I headed for the promised land of Australia to seek my fortune. I actively practised as an
-consulting Electrical Engineer for both Parsons Brinckerhoff & Aurecon but needless to say, that I could not help seeing
-  how everyday mundane repetitive tasks done in this field might someday be automated with machine learning.
+consulting Electrical Engineer for both Parsons Brinckerhoff & Aurecon but needless to say, that I was frustrated 
+because I could not help seeing how everyday mundane repetitive tasks done in this field might someday be automated with machine learning.
+
+All was not lost however! As the restlessness caused by the knowledge of how all this would change lead me to travel 
+the world & see it in a new light. I got to see all of the countries below:
+
+![alt text](https://image.ibb.co/hP0q28/places_Ihave_Been.png)
+
 
 
 
