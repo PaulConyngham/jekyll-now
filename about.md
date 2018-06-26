@@ -70,8 +70,8 @@ vectorization - all on its own. From this point on - I was hooked on machine lea
 ### The Years of Doubt.
 
 Take yourself back to the end of 2009. Machine Learning & Ai was not hyped at all. In fact up until 3 years ago (as of
-writing this, June 2018), if you mentioned to people that you worked on artificial intelligence they would give you this
-funny look, then make the same crack joke about the Terminator. Point being was that there were not many jobs in the 
+writing this, June 2018), if you mentioned to people that you worked on Artificial Intelligence they would give you this
+funny look, then make the same crack joke about the Terminator. Point being that there were not many jobs in the 
 field,
 nor were the existing ones (traders, cough) advertised.
 
@@ -84,7 +84,7 @@ machine learning. I pushed hard for some of my ML ideas to get implemented at th
 one took Machine Learning seriously.
 
 All was not lost however! As the restlessness caused by the knowledge of how all this would change caused me to travel 
-the world & see it in a new light. I got to see all of the countries below:
+the world & see it in a new light. I was lucky enough to visit all of the countries below:
 
 ![alt text](https://image.ibb.co/hP0q28/places_Ihave_Been.png)
 
@@ -92,8 +92,27 @@ the world & see it in a new light. I got to see all of the countries below:
 
 ### Neural Networks Revisited.
 
-After returning to New Zealand after living in Canada for a year, the first thing I tried to do was get a Masters in 
-Machine Learning. Again, you have to bare in mind the Machine Learning was not hyped yet. The hype was not real.
+June 2014 I returned to New Zealand after living in Canada for a year - the first thing I tried to do was get a 
+Masters in 
+Machine Learning. Again, you have to bare in mind that Machine Learning was not hyped yet. The hype was definitely NOT  
+real. I went around to 6 different professors at Victoria University, Wellington to try & pitch my idea of using the 
+same 
+ideas I had developed for my Echo State Network project of 2009 to control a drone.
+
+![alt text](https://image.ibb.co/eKg2X8/Screen_Shot_2018_06_26_at_9_54_46_pm.png)
+
+Drones were hyped in 2014, however out of the six professors that I personally approached, none of them were keen to 
+have me on as a Masters student. No-one had heard of an Echo State State Network and promptly brushed me aside.
+
+So I thought- to hell with them & decided to go lone wolf.
+
+From September 2014 to January 2015 I coded up a Neural Network in Java from first principles. In 2014 there was no 
+fancy [medium](https://medium.com/@paul.stevhttps://medium.com/@paul.steven.conyngham/how-to-get-blizzard-google-deepminds-pysc2-working-for-free-on-colabs-be2e68f18893en.conyngham/how-to-get-blizzard-google-deepminds-pysc2-working-for-free-on-colabs-be2e68f18893) blog posts telling you how to do everything - just a handful of html tutorials and of course - research 
+papers.
+
+
+
+
 
 
 ### Contact me
