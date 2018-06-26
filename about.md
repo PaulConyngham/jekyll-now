@@ -12,7 +12,7 @@ My current focus is on applying Deep Learning to building Strata apartment block
 building services.
 
 Outside of this I actively performing research in the field of Deep Reinforcement Learning for the StarAi project &
- am the lead organizer of the Sydney Machine Learning group, the largest community of machine learning practitioners in
+ am the Founder of the Sydney Machine Learning group, the largest community of machine learning practitioners in
  Sydney, Australia.
 
 This page contains a brief summary of my work in the field of Machine Learning since I got started back in 2009.
@@ -99,12 +99,13 @@ real. I went around to 6 different professors at Victoria University, Wellington
 same 
 ideas I had developed for my Echo State Network project of 2009 to control a drone.
 
-![alt text](https://image.ibb.co/eKg2X8/Screen_Shot_2018_06_26_at_9_54_46_pm.png)
+![alt text](https://image.ibb.co/dvd5kT/Screen_Shot_2018_06_26_at_10_13_47_pm.png)
 
-Drones were hyped in 2014, however out of the six professors that I personally approached, none of them were keen to 
+However, drones WERE hyped in 2014 and out of the six professors that I personally approached, none of them were 
+keen to 
 have me on as a Masters student. No-one had heard of an Echo State State Network and promptly brushed me aside.
 
-So I thought- to hell with them & decided to go lone wolf.
+So I thought- to hell with them & decided to go [Lone Wolf](https://www.youtube.com/watch?v=l8syGlAMTKA).
 
 From September 2014 to January 2015 I coded up a Neural Network in Java from first principles. In 2014 there was no 
 fancy [medium](https://medium.com/@paul.stevhttps://medium.com/@paul.steven
@@ -116,6 +117,12 @@ orientated programmming (OOP - which I learnt at Uni ). I though this would be a
  a neural network in such a way that you could have a Neuron as a separate object, which in then inherited by *a 
  layer of neurons*, which could then be inherited by a "Brain" object. 
  
+ I did *not* however use [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation). Instead, []I opted to 
+ implement a paper from 1989 "Training Feed Forward 
+ Neural Networks via Genetic Algorithms"](https://www.ijcai.org/Proceedings/89-1/Papers/122.pdf)
+ 
+ 
+    
  
 
 
