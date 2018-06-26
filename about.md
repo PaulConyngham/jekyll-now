@@ -26,7 +26,7 @@ If you would like to know more- read on:
 
 
 <img src="https://media.giphy.com/media/mMCMyT5Q6yvnFyloGi/giphy.gif" data-canonical-src="https://media.giphy
-.com/media/mMCMyT5Q6yvnFyloGi/giphy.gif" width="1000" height="800" />
+.com/media/mMCMyT5Q6yvnFyloGi/giphy.gif" width="1000" height="500" />
 
 
 I first got started in Machine Learning by being thrown into the "Deep" end with my honours thesis project for my
@@ -75,7 +75,9 @@ Take yourself back to the end of 2009. Machine Learning & Ai was not hyped at al
 
 In fact up until 3 years ago (as of
 writing this, June 2018), if you mentioned to people that you worked in Artificial Intelligence they would give you this
-funny look, then make the same crack joke about the Terminator. Point being that there were not many jobs in the 
+funny look, then make the same crack joke about the Terminator. 
+
+Point being that there were not many jobs in the 
 field,
 nor were the existing ones (traders, cough) advertised.
 
@@ -83,11 +85,12 @@ Fresh out of University I headed for the promised land of Australia to seek my f
 consulting Electrical Engineer for both [WSP Parsons Brinckerhoff](http://www.wsp-pb.com/wsp-au-nz/) & [Aurecon](https://www.aurecongroup.com/) but 
 needless to say, that I was frustrated 
 because I could not help seeing how everyday mundane repetitive tasks in engineering might someday be automated with 
-machine learning. I pushed hard for some of my ML ideas to get implemented at these companies, but most people laughed &
+Machine Learning. I pushed hard for some of my ML ideas to get implemented at these companies, but most people 
+laughed &
  no 
 one took Machine Learning seriously.
 
-All was not lost however! As the restlessness caused by the knowledge of how all this would change caused me to travel 
+All was not lost however! Restlessness caused by knowing how all this would change caused me to travel 
 the world & see it in a new light. I was lucky enough to visit all of the countries below:
 
 ![alt text](https://image.ibb.co/hP0q28/places_Ihave_Been.png)
@@ -100,7 +103,7 @@ In June 2014 I returned to New Zealand after living in Canada for a year. The fi
 Masters in 
 Machine Learning. Again, you have to bare in mind that Machine Learning was not hyped yet. 
 
-The hype was definitely NOT real.
+The hype was definitely **NOT** real.
  
 I went around to 6 different professors at Victoria University, Wellington to try & pitch my idea of using the 
 same 
@@ -108,11 +111,14 @@ ideas I had developed for my Echo State Network project of 2009 to control a dro
 
 ![alt text](https://image.ibb.co/dvd5kT/Screen_Shot_2018_06_26_at_10_13_47_pm.png)
 
-Drones however, WERE hyped in 2014 and out of the six professors that I personally approached, none of them were 
+Drones however, WERE hyped in 2014 and out of the six machine learning professors that I personally approached, none of 
+them were 
 keen to 
-have me on as a masters student. No-one had heard of an Echo State State Network and promptly brushed me aside.
+have me on as a masters student. 
 
-So I thought- to hell with them & decided to go [Lone Wolf](https://www.youtube.com/watch?v=l8syGlAMTKA).
+No-one had heard of an Echo State State Network and promptly brushed me aside.
+
+I thought - to hell with them & decided to go [Lone Wolf.](https://www.youtube.com/watch?v=l8syGlAMTKA).
 
 From September 2014 to January 2015 I coded up a Neural Network in Java from first principles. In 2014 there was no 
 fancy [Medium](https://medium.com/@paul.stevhttps://medium.com/@paul.steven
@@ -130,6 +136,9 @@ Orientated Programmming](https://en.wikipedia.org/wiki/Object-oriented_programmi
  a neural network in such a way that you could have a Neuron as a separate object, which in then inherited by *a 
  layer of neurons*, which could then be inherited by a "Brain" object. 
  
+ The goal of the the Neural Network was to successfully recreate the [XOR function](https://en.wikipedia.org/wiki/XOR_gate) - which was in 2015, the "Hello 
+ World" of Machine Learning.
+ 
  I did *not* however use [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation). Instead, [I opted to 
  implement a paper from 1989 "Training Feed Forward 
  Neural Networks via Genetic Algorithms"](https://www.ijcai.org/Proceedings/89-1/Papers/122.pdf). This is the exact 
@@ -141,9 +150,22 @@ Orientated Programmming](https://en.wikipedia.org/wiki/Object-oriented_programmi
  (being a rerun from 1989 and all...). Anyways, I did this because I thought it would be easier to learn, than 
  relearn Partial Derivatives, which I also learnt at Uni -  shout out to [Yann 
                                                                           Lecun :) ](https://en.wikipedia
-                                                                          .org/wiki/Yann_LeCun#Life) and all the 
+                                                                          .org/wiki/Yann_LeCun#Life) and all the other
                                                                           Electrical
                                                                            Engineers out there!
+                                                                           
+As you probably guessed, using Genetic Algorithms was a bad idea. Not because Genetic Algorithms are bad per se, only
+ because they are an entirely different and unique branch of Machine Learning.  
+ 
+This was not a waste of time. I learnt how Genetic Algorithms work - having opted to represent the weights of the 
+Neural Network as the "genome", implementing several "children" or copies as the Neural Network – to evaluate fitness
+ (or optimization to the environment)
+                    
+                                
+    
+            
+                                                                           
+                                                                     
  
  
     
