@@ -94,7 +94,9 @@ laughed &
  no 
 one took Machine Learning seriously.
 
-All was not lost however! Restlessness caused by knowing how all this would change caused me to travel 
+All was not lost however! 
+
+Restlessness caused by knowing how all this would change caused me to travel 
 the world & see it in a new light. I was lucky enough to visit all of the countries below:
 
 ![alt text](https://image.ibb.co/hP0q28/places_Ihave_Been.png)
@@ -122,14 +124,12 @@ have me on as a masters student.
 
 No-one had heard of an Echo State State Network and promptly brushed me aside.
 
-I thought - to hell with them & decided to go [Lone Wolf.](https://www.youtube.com/watch?v=l8syGlAMTKA).
+I thought, to hell with them, & decided to go [Lone Wolf](https://www.youtube.com/watch?v=l8syGlAMTKA).
 
 From September 2014 to January 2015 I coded up a Neural Network in Java from first principles. 
 
 In 2014 there was no 
-fancy [Medium](https://medium.com/@paul.stevhttps://medium.com/@paul.steven
-.conyngham/how-to-get-blizzard-google-deepminds-pysc2-working-for-free-on-colabs-be2e68f18893en
-.conyngham/how-to-get-blizzard-google-deepminds-pysc2-working-for-free-on-colabs-be2e68f18893) blog posts telling you
+fancy [Medium](https://medium.com/@paul.stevhttps://medium.com/@paul.steven.conyngham/how-to-get-blizzard-google-deepminds-pysc2-working-for-free-on-colabs-be2e68f18893) blog posts telling you
  how to do everything, nor were there fancy libraries such as TensorFlow or Pytorch - just a handful of html tutorials
   and of course - 
  research 
@@ -145,7 +145,9 @@ Orientated Programmming](https://en.wikipedia.org/wiki/Object-oriented_programmi
  The goal of the the Neural Network was to successfully recreate the [XOR function](https://en.wikipedia.org/wiki/XOR_gate) - which was in 2015, the "Hello 
  World" of Machine Learning.
  
- I did *not* however use [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation). Instead, [I opted to 
+ I did *not* however use [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation). 
+ 
+ Instead, [I opted to 
  implement a paper from 1989 "Training Feed Forward 
  Neural Networks via Genetic Algorithms"](https://www.ijcai.org/Proceedings/89-1/Papers/122.pdf). This is the exact 
  same 
@@ -154,10 +156,7 @@ Orientated Programmming](https://en.wikipedia.org/wiki/Object-oriented_programmi
  at at 
  all 
  (being a rerun from 1989 and all...). Anyways, I did this because I thought it would be easier to learn, than 
- relearn Partial Derivatives, which I also learnt at Uni -  shout out to [Yann 
-                                                                          Lecun :) ](https://en.wikipedia
-                                                                          .org/wiki/Yann_LeCun#Life) and all the other
-                                                                          Electrical
+ relearn Partial Derivatives, which I also learnt at Uni -  shout out to [Yann Lecun :) ](https://en.wikipedia.org/wiki/Yann_LeCun#Life) and all the otherElectrical
                                                                            Engineers out there!
                                                                            
 As you probably guessed, using Genetic Algorithms was a bad idea. Not because Genetic Algorithms are bad per se, only
