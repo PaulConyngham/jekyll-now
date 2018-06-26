@@ -120,7 +120,9 @@ No-one had heard of an Echo State State Network and promptly brushed me aside.
 
 I thought - to hell with them & decided to go [Lone Wolf.](https://www.youtube.com/watch?v=l8syGlAMTKA).
 
-From September 2014 to January 2015 I coded up a Neural Network in Java from first principles. In 2014 there was no 
+From September 2014 to January 2015 I coded up a Neural Network in Java from first principles. 
+
+In 2014 there was no 
 fancy [Medium](https://medium.com/@paul.stevhttps://medium.com/@paul.steven
 .conyngham/how-to-get-blizzard-google-deepminds-pysc2-working-for-free-on-colabs-be2e68f18893en
 .conyngham/how-to-get-blizzard-google-deepminds-pysc2-working-for-free-on-colabs-be2e68f18893) blog posts telling you
