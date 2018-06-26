@@ -26,8 +26,8 @@
         <entry file="file://$PROJECT_DIR$/about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="184">
-                <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+              <first_editor relative-caret-position="696">
+                <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
               </first_editor>
               <second_editor />
             </state>
@@ -172,8 +172,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="184">
-            <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+          <first_editor relative-caret-position="696">
+            <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
           </first_editor>
           <second_editor />
         </state>

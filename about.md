@@ -6,7 +6,7 @@ permalink: /about/
 
 ### TLDR;
 
-Hi i'm Paul, Machine Learning Engineer, StarAi project lead & founder of the Sydney Machine Learning group.
+Hi i'm Paul, Machine Learning Engineer, Founder of the Sydney Machine Learning group & StarAi project lead.
 
 My current focus is on applying Deep Learning to building Strata apartment blocks metering data to detect existing
 building services.
@@ -69,7 +69,9 @@ vectorization - all on its own. From this point on - I was hooked on machine lea
 
 ### The Years of Doubt.
 
-Take yourself back to the end of 2009. Machine Learning & Ai was not hyped at all. In fact up until 3 years ago (as of
+Take yourself back to the end of 2009. Machine Learning & Ai was not hyped at all. 
+
+In fact up until 3 years ago (as of
 writing this, June 2018), if you mentioned to people that you worked on Artificial Intelligence they would give you this
 funny look, then make the same crack joke about the Terminator. Point being that there were not many jobs in the 
 field,
@@ -92,7 +94,7 @@ the world & see it in a new light. I was lucky enough to visit all of the countr
 
 ### Neural Networks Revisited.
 
-June 2014 I returned to New Zealand after living in Canada for a year - the first thing I tried to do was get a 
+In June 2014 I returned to New Zealand after living in Canada for a year. The first thing I tried to do was get a 
 Masters in 
 Machine Learning. Again, you have to bare in mind that Machine Learning was not hyped yet. The hype was definitely NOT  
 real. I went around to 6 different professors at Victoria University, Wellington to try & pitch my idea of using the 
@@ -101,7 +103,7 @@ ideas I had developed for my Echo State Network project of 2009 to control a dro
 
 ![alt text](https://image.ibb.co/dvd5kT/Screen_Shot_2018_06_26_at_10_13_47_pm.png)
 
-However, drones WERE hyped in 2014 and out of the six professors that I personally approached, none of them were 
+Drones however, WERE hyped in 2014 and out of the six professors that I personally approached, none of them were 
 keen to 
 have me on as a Masters student. No-one had heard of an Echo State State Network and promptly brushed me aside.
 
@@ -113,13 +115,14 @@ fancy [medium](https://medium.com/@paul.stevhttps://medium.com/@paul.steven
 papers.
 
 I wrote up my Neural Network in Java because I thought that it would be a good way to reteach myself object 
-orientated programmming (OOP - which I learnt at Uni ). I though this would be a good idea because you can program up
+orientated programmming (OOP - which I learnt at Uni ). I thought this would be a good idea because you can program up
  a neural network in such a way that you could have a Neuron as a separate object, which in then inherited by *a 
  layer of neurons*, which could then be inherited by a "Brain" object. 
  
- I did *not* however use [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation). Instead, []I opted to 
+ I did *not* however use [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation). Instead, [I opted to 
  implement a paper from 1989 "Training Feed Forward 
- Neural Networks via Genetic Algorithms"](https://www.ijcai.org/Proceedings/89-1/Papers/122.pdf)
+ Neural Networks via Genetic Algorithms"](https://www.ijcai.org/Proceedings/89-1/Papers/122.pdf). This is the same 
+ fancy work that
  
  
     
