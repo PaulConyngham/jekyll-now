@@ -81,11 +81,15 @@ Point being that there were not many jobs in the
 field,
 nor were the existing ones (traders, cough) advertised.
 
-Fresh out of University I headed for the promised land of Australia to seek my fortune. I actively practised as an
+Fresh out of University I headed for the promised land of Australia to seek my fortune. 
+
+I actively practised as an
 consulting Electrical Engineer for both [WSP Parsons Brinckerhoff](http://www.wsp-pb.com/wsp-au-nz/) & [Aurecon](https://www.aurecongroup.com/) but 
 needless to say, that I was frustrated 
 because I could not help seeing how everyday mundane repetitive tasks in engineering might someday be automated with 
-Machine Learning. I pushed hard for some of my ML ideas to get implemented at these companies, but most people 
+Machine Learning. 
+
+I pushed hard for some of my ML ideas to get implemented at these companies, but most people 
 laughed &
  no 
 one took Machine Learning seriously.
