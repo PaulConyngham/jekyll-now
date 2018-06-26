@@ -26,6 +26,8 @@ If you would like to know more- read on:
 
 ![Johnny5](https://media.giphy.com/media/mMCMyT5Q6yvnFyloGi/giphy.gif)
 
+<img src="https://media.giphy.com/media/mMCMyT5Q6yvnFyloGi/giphy.gif" data-canonical-src="https://media.giphy.com/media/mMCMyT5Q6yvnFyloGi/giphy.gif" width="200" height="400" />
+
 
 I first got started in Machine Learning by being thrown into the "Deep" end with my honours thesis project for my
 Electrical Engineering Degree. For this project I used an [Echo State Network (ESN)](http://www.scholarpedia
@@ -72,7 +74,7 @@ vectorization - all on its own. From this point on - I was hooked on machine lea
 Take yourself back to the end of 2009. Machine Learning & Ai was not hyped at all. 
 
 In fact up until 3 years ago (as of
-writing this, June 2018), if you mentioned to people that you worked on Artificial Intelligence they would give you this
+writing this, June 2018), if you mentioned to people that you worked in Artificial Intelligence they would give you this
 funny look, then make the same crack joke about the Terminator. Point being that there were not many jobs in the 
 field,
 nor were the existing ones (traders, cough) advertised.
@@ -116,7 +118,9 @@ fancy [Medium](https://medium.com/@paul.stevhttps://medium.com/@paul.steven
  how to do everything, nor were there fancy libraries such as TensorFlow or Pytorch - just a handful of html tutorials
   and of course - 
  research 
-papers. Everything had to be done from scratch.
+papers. 
+
+Everything had to be done from scratch.
 
 I wrote up my Neural Network in Java because I thought that it would be a good way to reteach myself [Object 
 Orientated Programmming](https://en.wikipedia.org/wiki/Object-oriented_programming) (OOP - which I learnt at Uni ). I thought this would be a good idea because you can program up
@@ -132,7 +136,11 @@ Orientated Programmming](https://en.wikipedia.org/wiki/Object-oriented_programmi
  at at 
  all 
  (being a rerun from 1989 and all...). Anyways, I did this because I thought it would be easier to learn, than 
- relearn Partial Derivatives (which I also learnt at Uni - shout out to all Electrical Engineers out there & Yann Lecun)
+ relearn Partial Derivatives, which I also learnt at Uni -  shout out to [Yann 
+                                                                          Lecun :) ](https://en.wikipedia
+                                                                          .org/wiki/Yann_LeCun#Life) and all the 
+                                                                          Electrical
+                                                                           Engineers out there!
  
  
     
