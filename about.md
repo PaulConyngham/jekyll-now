@@ -105,24 +105,34 @@ ideas I had developed for my Echo State Network project of 2009 to control a dro
 
 Drones however, WERE hyped in 2014 and out of the six professors that I personally approached, none of them were 
 keen to 
-have me on as a Masters student. No-one had heard of an Echo State State Network and promptly brushed me aside.
+have me on as a masters student. No-one had heard of an Echo State State Network and promptly brushed me aside.
 
 So I thought- to hell with them & decided to go [Lone Wolf](https://www.youtube.com/watch?v=l8syGlAMTKA).
 
 From September 2014 to January 2015 I coded up a Neural Network in Java from first principles. In 2014 there was no 
-fancy [medium](https://medium.com/@paul.stevhttps://medium.com/@paul.steven
-.conyngham/how-to-get-blizzard-google-deepminds-pysc2-working-for-free-on-colabs-be2e68f18893en.conyngham/how-to-get-blizzard-google-deepminds-pysc2-working-for-free-on-colabs-be2e68f18893) blog posts telling you how to do everything - just a handful of html tutorials and of course - research 
-papers.
+fancy [Medium](https://medium.com/@paul.stevhttps://medium.com/@paul.steven
+.conyngham/how-to-get-blizzard-google-deepminds-pysc2-working-for-free-on-colabs-be2e68f18893en
+.conyngham/how-to-get-blizzard-google-deepminds-pysc2-working-for-free-on-colabs-be2e68f18893) blog posts telling you
+ how to do everything, nor were there fancy libraries such as TensorFlow or Pytorch - just a handful of html tutorials
+  and of course - 
+ research 
+papers. Everything had to be done from scratch.
 
-I wrote up my Neural Network in Java because I thought that it would be a good way to reteach myself object 
-orientated programmming (OOP - which I learnt at Uni ). I thought this would be a good idea because you can program up
+I wrote up my Neural Network in Java because I thought that it would be a good way to reteach myself [Object 
+Orientated Programmming](https://en.wikipedia.org/wiki/Object-oriented_programming) (OOP - which I learnt at Uni ). I thought this would be a good idea because you can program up
  a neural network in such a way that you could have a Neuron as a separate object, which in then inherited by *a 
  layer of neurons*, which could then be inherited by a "Brain" object. 
  
  I did *not* however use [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation). Instead, [I opted to 
  implement a paper from 1989 "Training Feed Forward 
- Neural Networks via Genetic Algorithms"](https://www.ijcai.org/Proceedings/89-1/Papers/122.pdf). This is the same 
- fancy work that
+ Neural Networks via Genetic Algorithms"](https://www.ijcai.org/Proceedings/89-1/Papers/122.pdf). This is the exact 
+ same 
+ fancy work that [Uber Ai labs proclaimed last year (2017)](https://eng.uber.com/deep-neuroevolution/) as being revolutionary, but is is actually not that hard 
+ core 
+ at at 
+ all 
+ (being a rerun from 1989 and all...). Anyways, I did this because I thought it would be easier to learn, than 
+ relearn Partial Derivatives (which I also learnt at Uni - shout out to all Electrical Engineers out there & Yann Lecun)
  
  
     
