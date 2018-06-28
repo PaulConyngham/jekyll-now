@@ -6,13 +6,13 @@ permalink: /about/
 
 ### TLDR;
 
-Hi i'm Paul, Machine Learning Engineer, StarAi project lead & founder of the Sydney Machine Learning group.
+Hi i'm Paul, Machine Learning Engineer, Founder of the Sydney Machine Learning group & StarAi project lead.
 
 My current focus is on applying Deep Learning to building Strata apartment blocks metering data to detect existing
 building services.
 
 Outside of this I actively performing research in the field of Deep Reinforcement Learning for the StarAi project &
- am the lead organizer of the Sydney Machine Learning group, the largest community of machine learning practitioners in
+ am the Founder of the Sydney Machine Learning group, the largest community of machine learning practitioners in
  Sydney, Australia.
 
 This page contains a brief summary of my work in the field of Machine Learning since I got started back in 2009.
@@ -24,7 +24,9 @@ If you would like to know more- read on:
 
 ### Echo State Networks & Agents : My Introduction to Reinforcement Learning
 
-![Johnny5](https://media.giphy.com/media/mMCMyT5Q6yvnFyloGi/giphy.gif)
+
+<img src="https://media.giphy.com/media/mMCMyT5Q6yvnFyloGi/giphy.gif" data-canonical-src="https://media.giphy
+.com/media/mMCMyT5Q6yvnFyloGi/giphy.gif" width="1000" height="500" />
 
 
 I first got started in Machine Learning by being thrown into the "Deep" end with my honours thesis project for my
@@ -67,16 +69,114 @@ vectorization - all on its own. From this point on - I was hooked on machine lea
 
 # 2010 - 2013
 
-### The Golden Years :)
+### The Years of Doubt.
 
-Take yourself back to the end of 2009. Machine Learning & Ai was not hyped at all. Infact up until 3 years ago (as of
-writing this June 2018), if you mentioned to people that you worked on artificial intelligence they would give you this
-funny look, then make the same crack joke about terminator. Point being was that there were not many jobs in the field,
+Take yourself back to the end of 2009. Machine Learning & Ai was not hyped at all. 
+
+In fact up until 3 years ago (as of
+writing this, June 2018), if you mentioned to people that you worked in Artificial Intelligence they would give you this
+funny look, then make the same crack joke about the Terminator. 
+
+Point being that there were not many jobs in the 
+field,
 nor were the existing ones (traders, cough) advertised.
 
-Fresh out of University I headed for the promised land of Australia to seek my fortune. I actively practised as an
-consulting Electrical Engineer for both Parsons Brinckerhoff & Aurecon but needless to say, that I could not help seeing
-  how everyday mundane repetitive tasks done in this field might someday be automated with machine learning.
+Fresh out of University I headed for the promised land of Australia to seek my fortune. 
+
+I actively practised as an
+consulting Electrical Engineer for both [WSP Parsons Brinckerhoff](http://www.wsp-pb.com/wsp-au-nz/) & [Aurecon](https://www.aurecongroup.com/) but 
+needless to say, that I was frustrated 
+because I could not help seeing how everyday mundane repetitive tasks in engineering might someday be automated with 
+Machine Learning. 
+
+I pushed hard for some of my ML ideas to get implemented at these companies, but most people 
+laughed &
+ no 
+one took Machine Learning seriously.
+
+All was not lost however! 
+
+Restlessness caused by knowing how all this would change caused me to travel 
+the world & see it in a new light. I was lucky enough to visit all of the countries below:
+
+![alt text](https://image.ibb.co/hP0q28/places_Ihave_Been.png)
+
+# 2014 - 2015
+
+### Neural Networks Revisited.
+
+In June 2014 I returned to New Zealand after living in Canada for a year. The first thing I tried to do was get a 
+Masters in 
+Machine Learning. Again, you have to bare in mind that Machine Learning was not hyped yet. 
+
+The hype was definitely **NOT** real.
+ 
+I went around to 6 different professors at Victoria University, Wellington to try & pitch my idea of using the 
+same 
+ideas I had developed for my Echo State Network project of 2009 to control a drone.
+
+![alt text](https://image.ibb.co/dvd5kT/Screen_Shot_2018_06_26_at_10_13_47_pm.png)
+
+Drones however, WERE hyped in 2014 and out of the six machine learning professors that I personally approached, none of 
+them were 
+keen to 
+have me on as a masters student. 
+
+No-one had heard of an Echo State State Network and promptly brushed me aside.
+
+I thought, to hell with them, & decided to go [Lone Wolf](https://www.youtube.com/watch?v=l8syGlAMTKA).
+
+From September 2014 to January 2015 I coded up a Neural Network in Java from first principles. 
+
+In 2014 there was no 
+fancy [Medium](https://medium.com/@paul.stevhttps://medium.com/@paul.steven.conyngham/how-to-get-blizzard-google-deepminds-pysc2-working-for-free-on-colabs-be2e68f18893) blog posts telling you
+ how to do everything, nor were there fancy libraries such as TensorFlow or Pytorch - just a handful of html tutorials
+  and of course - 
+ research 
+papers. 
+
+Everything had to be done from scratch.
+
+I wrote up my Neural Network in Java because I thought that it would be a good way to reteach myself [Object 
+Orientated Programmming](https://en.wikipedia.org/wiki/Object-oriented_programming) (OOP - which I learnt at Uni ). I thought this would be a good idea because you can program up
+ a neural network in such a way that you could have a Neuron as a separate object, which in then inherited by *a 
+ layer of neurons*, which could then be inherited by a "Brain" object. 
+ 
+ The goal of the the Neural Network was to successfully recreate the [XOR function](https://en.wikipedia.org/wiki/XOR_gate) - which was in 2015, the "Hello 
+ World" of Machine Learning.
+ 
+ I did *not* however use [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation). 
+ 
+ Instead, [I opted to 
+ implement a paper from 1989 "Training Feed Forward 
+ Neural Networks via Genetic Algorithms"](https://www.ijcai.org/Proceedings/89-1/Papers/122.pdf). This is the exact 
+ same 
+ fancy work that [Uber Ai labs proclaimed last year (2017)](https://eng.uber.com/deep-neuroevolution/) as being revolutionary, but is is actually not that hard 
+ core 
+ at at 
+ all 
+ (being a rerun from 1989 and all...). Anyways, I did this because I thought it would be easier to learn, than 
+ relearn Partial Derivatives, which I also learnt at Uni -  shout out to [Yann Lecun :) ](https://en.wikipedia.org/wiki/Yann_LeCun#Life) and all the otherElectrical
+                                                                           Engineers out there!
+                                                                           
+As you probably guessed, using Genetic Algorithms was a bad idea. Not because Genetic Algorithms are bad per se, only
+ because they are an entirely different and unique branch of Machine Learning.  
+ 
+This was not a waste of time. I learnt how Genetic Algorithms work - having opted to represent the weights of the 
+Neural Network as the "genome", implementing several "children" or copies as the Neural Network – to evaluate fitness
+ (or optimization to the environment)
+                    
+                                
+    
+            
+                                                                           
+                                                                     
+ 
+ 
+    
+ 
+
+
 
 
 
