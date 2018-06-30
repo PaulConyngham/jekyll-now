@@ -24,6 +24,7 @@ If you would like to know more- read on:
 
 ### Echo State Networks & Agents : My Introduction to Reinforcement Learning
 
+[TLDR; The GitHub Repo for my Echo State Network project is here](https://github.com/PaulConyngham/Johnny5_ESN_demo)
 
 I first got started in Machine Learning by being thrown into the "Deep" end with my honours thesis project for my
 Electrical Engineering Degree. For this project I used an [Echo State Network (ESN)](http://www.scholarpedia
@@ -31,8 +32,7 @@ Electrical Engineering Degree. For this project I used an [Echo State Network (E
 perform control of a virtual agent.
 
 Recurrent Neural Networks (RNNs) are incredibly expensive to train via algorithms such as Backpropagation Through Time
-(BTT)
-.
+(BTT).
 
 Echo State Networks (ESNs) are a form of Recurrent Neural Networks (RNNs) developed to address the incredible
  "training" difficulty of vanilla RNNs- by having a fixed "reservoir" of randomly connected layers of virtual neurons, and
@@ -103,6 +103,8 @@ Restlessness caused by knowing how the world would change caused me to travel
 # 2014 - 2015
 
 ### NeuroEvolution: Neural Networks Revisited.
+
+[TLDR; The GitHub Repo for my NeuroEvolution project is here](https://github.com/PaulConyngham/FFNN-with-genetic-algorithm-training)
 
 In June 2014 I returned to New Zealand after living in Canada for a year. The first thing I tried to do was get a 
 Masters in 
@@ -175,13 +177,29 @@ are remembered, whilst the neural nets who perform badly are forgotten.
 The Nets that did well are then "interbred" with other Nets that also performed well, a new population is created, 
 and the process is repeated over & over until the Neural Network learned to replicate the XOR function.
 
-[My GitHub Repo for this project is here](https://github.com/PaulConyngham/FFNN-with-genetic-algorithm-training)
+As one final pass for this project & instead of taking the Object Orientated approach, I recoded the entire thing 
+using Linear Algebra (matrices) instead of plain old objects to do everything. This speeding up training time immensely.
+
+
                     
 # 2016                                
     
 ### "Concretely."            
                                                                            
-                                                                     
+The bizzare thing about the NeuroEvolution project was that in 2014-2015, I was just happily humming away doing 
+Machine Learning. However in 2016, there started to be mention of Machine Learning in the main stream 
+news. 
+
+This was a new phenomenon, as prior to this Machine Learning was kind of an under ground community.
+ 
+2016 was kind of watershed moment for lets call it "modern Machine Learning." as Deep Learning was now been applied 
+to everything & blowing most previously used old school techniques out of the water.
+
+The most famous case of course, was AlphaGo
+        
+            
+            
+                        
  
  
     
