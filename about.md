@@ -19,7 +19,7 @@ This page contains a brief summary of my work in the field of Machine Learning s
 If you would like to know more- read on:
 
 
-    + [TLDR;](#tldr-)
++ [TLDR;](#tldr-)
       - [In reverse chronological order:](#in-reverse-chronological-order-)
 - [2009](#2009)
     + [Echo State Networks & Agents : My Introduction to Reinforcement Learning](#echo-state-networks---agents---my-introduction-to-reinforcement-learning)
