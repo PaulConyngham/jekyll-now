@@ -18,6 +18,18 @@ Outside of this I actively performing research in the field of Deep Reinforcemen
 This page contains a brief summary of my work in the field of Machine Learning since I got started back in 2009.
 If you would like to know more- read on:
 
+
+    + [TLDR;](#tldr-)
+      - [In reverse chronological order:](#in-reverse-chronological-order-)
+- [2009](#2009)
+    + [Echo State Networks & Agents : My Introduction to Reinforcement Learning](#echo-state-networks---agents---my-introduction-to-reinforcement-learning)
+- [2010 - 2013](#2010---2013)
+    + [The Years of Doubt.](#the-years-of-doubt)
+- [2014 - 2015](#2014---2015)
+    + [NeuroEvolution: Neural Networks Revisited.](#neuroevolution--neural-networks-revisited)
+- [2016](#2016)
+    + ["Concretely."](#-concretely-)
+
 #### In reverse chronological order:
 
 # 2009
