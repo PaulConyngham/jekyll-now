@@ -18,16 +18,25 @@ Outside of this I actively performing research in the field of Deep Reinforcemen
 This page contains a brief summary of my work in the field of Machine Learning since I got started back in 2009.
 If you would like to know more- read on:
 
+
++ [TLDR;](#tldr-)
+      - [In reverse chronological order:](#in-reverse-chronological-order-)
+- [2009](#2009)
+    + [Echo State Networks & Agents : My Introduction to Reinforcement Learning](#echo-state-networks---agents---my-introduction-to-reinforcement-learning)
+- [2010 - 2013](#2010---2013)
+    + [The Years of Doubt.](#the-years-of-doubt)
+- [2014 - 2015](#2014---2015)
+    + [NeuroEvolution: Neural Networks Revisited.](#neuroevolution--neural-networks-revisited)
+- [2016](#2016)
+    + ["Concretely."](#-concretely-)
+
 #### In reverse chronological order:
 
 # 2009
 
 ### Echo State Networks & Agents : My Introduction to Reinforcement Learning
 
-
-<img src="https://media.giphy.com/media/mMCMyT5Q6yvnFyloGi/giphy.gif" data-canonical-src="https://media.giphy
-.com/media/mMCMyT5Q6yvnFyloGi/giphy.gif" width="1000" height="500" />
-
+[TLDR; The GitHub Repo for my Echo State Network project is here](https://github.com/PaulConyngham/Johnny5_ESN_demo)
 
 I first got started in Machine Learning by being thrown into the "Deep" end with my honours thesis project for my
 Electrical Engineering Degree. For this project I used an [Echo State Network (ESN)](http://www.scholarpedia
@@ -35,14 +44,16 @@ Electrical Engineering Degree. For this project I used an [Echo State Network (E
 perform control of a virtual agent.
 
 Recurrent Neural Networks (RNNs) are incredibly expensive to train via algorithms such as Backpropagation Through Time
-(BTT)
-.
+(BTT).
 
 Echo State Networks (ESNs) are a form of Recurrent Neural Networks (RNNs) developed to address the incredible
  "training" difficulty of vanilla RNNs- by having a fixed "reservoir" of randomly connected layers of virtual neurons, and
   a final "trainable" layer that connects to the "reservoir". Echo State Networks fall under the research branch of
   ["Liquid State Machines"](https://en.wikipedia.org/wiki/Liquid_state_machine), a genre of Neural network that is known within research communities to closely match the
   functionality of real neural networks of the human brain.
+  
+<img src="https://media.giphy.com/media/mMCMyT5Q6yvnFyloGi/giphy.gif" data-canonical-src="https://media.giphy
+.com/media/mMCMyT5Q6yvnFyloGi/giphy.gif" width="1000" height="500" />
 
 The goal of this research project was to have an autonomous "agent" navigate to a random point in 2D space. Once it
 reached the goal, the navigation point was reset and the agent would have to start over. By resetting the "final
@@ -73,7 +84,7 @@ vectorization - all on its own. From this point on - I was hooked on machine lea
 
 Take yourself back to the end of 2009. Machine Learning & Ai was not hyped at all. 
 
-In fact up until 3 years ago (as of
+In fact, up until 3 years ago (as of
 writing this, June 2018), if you mentioned to people that you worked in Artificial Intelligence they would give you this
 funny look, then make the same crack joke about the Terminator. 
 
@@ -83,7 +94,7 @@ nor were the existing ones (traders, cough) advertised.
 
 Fresh out of University I headed for the promised land of Australia to seek my fortune. 
 
-I actively practised as an
+I actively practised as a
 consulting Electrical Engineer for both [WSP Parsons Brinckerhoff](http://www.wsp-pb.com/wsp-au-nz/) & [Aurecon](https://www.aurecongroup.com/) but 
 needless to say, that I was frustrated 
 because I could not help seeing how everyday mundane repetitive tasks in engineering might someday be automated with 
@@ -96,14 +107,16 @@ one took Machine Learning seriously.
 
 All was not lost however! 
 
-Restlessness caused by knowing how all this would change caused me to travel 
-the world & see it in a new light. I was lucky enough to visit all of the countries below:
+Restlessness caused by knowing how the world would change caused me to travel 
+ & see it in a new light. I was lucky enough to visit all of the countries below:
 
 ![alt text](https://image.ibb.co/hP0q28/places_Ihave_Been.png)
 
 # 2014 - 2015
 
-### Neural Networks Revisited.
+### NeuroEvolution: Neural Networks Revisited.
+
+[TLDR; The GitHub Repo for my NeuroEvolution project is here](https://github.com/PaulConyngham/FFNN-with-genetic-algorithm-training)
 
 In June 2014 I returned to New Zealand after living in Canada for a year. The first thing I tried to do was get a 
 Masters in 
@@ -151,26 +164,54 @@ Orientated Programmming](https://en.wikipedia.org/wiki/Object-oriented_programmi
  implement a paper from 1989 "Training Feed Forward 
  Neural Networks via Genetic Algorithms"](https://www.ijcai.org/Proceedings/89-1/Papers/122.pdf). This is the exact 
  same 
- fancy work that [Uber Ai labs proclaimed last year (2017)](https://eng.uber.com/deep-neuroevolution/) as being revolutionary, but is is actually not that hard 
+ fancy work that [Uber Ai labs proclaimed last year (2017)](https://eng.uber.com/deep-neuroevolution/) as being 
+ revolutionary, but ist is actually not that hard 
  core 
  at at 
  all 
  (being a rerun from 1989 and all...). Anyways, I did this because I thought it would be easier to learn, than 
- relearn Partial Derivatives, which I also learnt at Uni -  shout out to [Yann Lecun :) ](https://en.wikipedia.org/wiki/Yann_LeCun#Life) and all the otherElectrical
+ relearn Partial Derivatives, which I also learnt at Uni -  shout out to [Yann Lecun :) ](https://en.wikipedia.org/wiki/Yann_LeCun#Life) and all the other Electrical
                                                                            Engineers out there!
                                                                            
-As you probably guessed, using Genetic Algorithms was a bad idea. Not because Genetic Algorithms are bad per se, only
+As you probably guessed, using Genetic Algorithms was a bad idea. Not because Genetic Algorithms are bad per se, but
  because they are an entirely different and unique branch of Machine Learning.  
- 
-This was not a waste of time. I learnt how Genetic Algorithms work - having opted to represent the weights of the 
-Neural Network as the "genome", implementing several "children" or copies as the Neural Network – to evaluate fitness
- (or optimization to the environment)
+
+Having opted to use Genetic Algorithms to train the Neural Networks weights was not a waste of time, as I got to 
+learn 
+about core 
+Genetic Algorithm concepts such as [Fitness Functions](https://en.wikipedia.org/wiki/Fitness_function), [cross-over]
+(https://en.wikipedia.org/wiki/Crossover_(genetic_algorithm)) and [mutation rate](https://en.wikipedia.org/wiki/Mutation_(genetic_algorithm)).
+
+I represented the weights of the neural network as the genome, and created  "a population" of different Neural 
+Networks, all with different genomes - at the start. Over time, the Neural nets (with weights) that perform the best 
+are remembered, whilst the neural nets who perform badly are forgotten. 
+
+The Nets that did well are then "interbred" with other Nets that also performed well, a new population is created, 
+and the process is repeated over & over until the Neural Network learned to replicate the XOR function.
+
+As one final pass for this project & instead of taking the Object Orientated approach, I recoded the entire thing 
+using Linear Algebra (matrices) instead of plain old objects to do everything. This speeding up training time immensely.
+
+
                     
-                                
+# 2016                                
     
-            
+### "Concretely."            
                                                                            
-                                                                     
+The bizzare thing about the NeuroEvolution project was that in 2014-2015, I was just happily humming away doing 
+Machine Learning. However in 2016, there started to be mention of Machine Learning in the main stream 
+news. 
+
+This was a new phenomenon, as prior to this Machine Learning was kind of an under ground community.
+ 
+2016 was kind of watershed moment for lets call it "modern Machine Learning." as Deep Learning was now been applied 
+to everything & blowing most previously used old school techniques out of the water.
+
+The most famous case of course, was AlphaGo
+        
+            
+            
+                        
  
  
     
