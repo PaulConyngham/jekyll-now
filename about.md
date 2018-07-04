@@ -8,6 +8,8 @@ permalink: /about/
 
 Hi i'm Paul, Machine Learning Engineer, Founder of the Sydney Machine Learning group & StarAi project lead.
 
+From my personal experience, you need to be constantly reteac
+
 My current focus is on applying Deep Learning to building Strata apartment blocks metering data to detect existing
 building services.
 
@@ -200,6 +202,8 @@ using Linear Algebra (matrices) instead of plain old objects to do everything. T
 ### "Concretely."            
 
 [TLDR; the GitHub repo to my MATLAB answers to Andrew Ng's classic machine learning course is here](https://github.com/PaulConyngham/Andrew-NG-Machine-Learning)
+
+[TLDR; the Github repo for my notes on Andrew NGs course are here]()
                                                                            
 The bizzare thing about the NeuroEvolution project was that in 2014-2015, I was just quitley humming away doing 
 Machine Learning in my basement (not quite, but you know what I mean). I remember going to a party in 2015 and telling 
@@ -222,7 +226,12 @@ I had known about [Andrew Ng's](https://en.wikipedia.org/wiki/Andrew_Ng) now cla
  
 It was fantastic but extremely painful. For 11 weeks in my spare time after work, all by myself I relearnt Matlab, 
 Linear algebra &
- Calculas. Why? You needed to know these topics for the material covered in the course
+ Calculas. Why? You needed to know these topics for the material covered in the course.
+ 
+ In no particular order I learnt about: 
+ 
+ Linear Regression, Logisitic Regression, Neural Networks (again!), Support Vector Machines, k-Means & principal 
+ component analysis (PCA).
  
 
         
@@ -236,7 +245,8 @@ Linear algebra &
 
 
 
-
+I find from experience - to be good at Machine Learning as the field is so vast, you need to be constantly reteaching
+ yourself knowledge from all over the field.
 
 ### Contact me
 
