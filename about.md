@@ -8,6 +8,8 @@ permalink: /about/
 
 Hi i'm Paul, Machine Learning Engineer, Founder of the Sydney Machine Learning group & StarAi project lead.
 
+From my personal experience, you need to be constantly reteac
+
 My current focus is on applying Deep Learning to building Strata apartment blocks metering data to detect existing
 building services.
 
@@ -16,11 +18,12 @@ Outside of this I actively performing research in the field of Deep Reinforcemen
  Sydney, Australia.
 
 This page contains a brief summary of my work in the field of Machine Learning since I got started back in 2009.
-If you would like to know more- read on:
+
+[Follow me on Twitter](https://twitter.com/paul_conyngham) if you would like to know more, or read on: ;)
+
+#### Contents
 
 
-+ [TLDR;](#tldr-)
-      - [In reverse chronological order:](#in-reverse-chronological-order-)
 - [2009](#2009)
     + [Echo State Networks & Agents : My Introduction to Reinforcement Learning](#echo-state-networks---agents---my-introduction-to-reinforcement-learning)
 - [2010 - 2013](#2010---2013)
@@ -80,7 +83,7 @@ vectorization - all on its own. From this point on - I was hooked on machine lea
 
 # 2010 - 2013
 
-### The Years of Doubt.
+### The Years of Doubt. My Personal Dark Ages.
 
 Take yourself back to the end of 2009. Machine Learning & Ai was not hyped at all. 
 
@@ -197,17 +200,40 @@ using Linear Algebra (matrices) instead of plain old objects to do everything. T
 # 2016                                
     
 ### "Concretely."            
+
+[TLDR; the GitHub repo to my MATLAB answers to Andrew Ng's classic machine learning course is here](https://github.com/PaulConyngham/Andrew-NG-Machine-Learning)
+
+[TLDR; the Github repo for my notes on Andrew NGs course are here]()
                                                                            
-The bizzare thing about the NeuroEvolution project was that in 2014-2015, I was just happily humming away doing 
-Machine Learning. However in 2016, there started to be mention of Machine Learning in the main stream 
-news. 
+The bizzare thing about the NeuroEvolution project was that in 2014-2015, I was just quitley humming away doing 
+Machine Learning in my basement (not quite, but you know what I mean). I remember going to a party in 2015 and telling 
+people that I was doing machine learning. The girl & her friends that I was talking to at the time gave me quite the 
+weird look. :)
+
+In 2016 however, there started to be mention of Machine Learning in the main stream news. 
 
 This was a new phenomenon, as prior to this Machine Learning was kind of an under ground community.
  
-2016 was kind of watershed moment for lets call it "modern Machine Learning." as Deep Learning was now been applied 
+2016 was kind of watershed moment for lets call it "modern Machine Learning" as Deep Learning was now been applied 
 to everything & blowing most previously used old school techniques out of the water.
 
-The most famous case of course, was AlphaGo
+The most famous case of course, being AlphaGo, where the Roger Federer of the "Go" world, Lee Sedol, was beaten by an
+ machine learning algorithm/program called [AlphaGo](https://en.wikipedia.org/wiki/AlphaGo). For more info on this 
+ there is now an [excellent movie over on Netflix](https://www.netflix.com/title/80190844) about it.
+ 
+I had known about [Andrew Ng's](https://en.wikipedia.org/wiki/Andrew_Ng) now classic course since 2012 & thought that
+ it would be a great way to round out my knowledge of the many various other machine learning techniques out there.
+ 
+It was fantastic but extremely painful. For 11 weeks in my spare time after work, all by myself I relearnt Matlab, 
+Linear algebra &
+ Calculas. Why? You needed to know these topics for the material covered in the course.
+ 
+ In no particular order I learnt about: 
+ 
+ Linear Regression, Logisitic Regression, Neural Networks (again!), Support Vector Machines, k-Means & principal 
+ component analysis (PCA).
+ 
+
         
             
             
@@ -219,7 +245,8 @@ The most famous case of course, was AlphaGo
 
 
 
-
+I find from experience - to be good at Machine Learning as the field is so vast, you need to be constantly reteaching
+ yourself knowledge from all over the field.
 
 ### Contact me
 
