@@ -6,9 +6,7 @@ permalink: /about/
 
 ### TLDR;
 
-Hi i'm Paul, Machine Learning Engineer, Founder of the Sydney Machine Learning group & StarAi project lead.
-
-From my personal experience, you need to be constantly reteac
+Hi i'm Paul, a Machine Learning Engineer, Founder of the Sydney Machine Learning group & StarAi project lead.
 
 My current focus is on applying Deep Learning to building Strata apartment blocks metering data to detect existing
 building services.
@@ -19,7 +17,7 @@ Outside of this I actively performing research in the field of Deep Reinforcemen
 
 This page contains a brief summary of my work in the field of Machine Learning since I got started back in 2009.
 
-[Follow me on Twitter](https://twitter.com/paul_conyngham) if you would like to know more, or read on: ;)
+If you would like to know more, [Follow me on Twitter](https://twitter.com/paul_conyngham) or read on: ;)
 
 #### Contents
 
@@ -83,7 +81,7 @@ vectorization - all on its own. From this point on - I was hooked on machine lea
 
 # 2010 - 2013
 
-### The Years of Doubt. My Personal Dark Ages.
+### The Years of Doubt. 
 
 Take yourself back to the end of 2009. Machine Learning & Ai was not hyped at all. 
 
@@ -205,12 +203,12 @@ using Linear Algebra (matrices) instead of plain old objects to do everything. T
 
 [TLDR; the Github repo for my notes on Andrew NGs course are here]()
                                                                            
-The bizzare thing about the NeuroEvolution project was that in 2014-2015, I was just quitley humming away doing 
+The bizarre thing about the NeuroEvolution project was that in 2014-2015, I was just quitley humming away doing 
 Machine Learning in my basement (not quite, but you know what I mean). I remember going to a party in 2015 and telling 
 people that I was doing machine learning. The girl & her friends that I was talking to at the time gave me quite the 
-weird look. :)
+weird look.
 
-In 2016 however, there started to be mention of Machine Learning in the main stream news. 
+In 2016 however, Machine Learning started to get mentioned in the main stream news. 
 
 This was a new phenomenon, as prior to this Machine Learning was kind of an under ground community.
  
@@ -221,6 +219,10 @@ The most famous case of course, being AlphaGo, where the Roger Federer of the "G
  machine learning algorithm/program called [AlphaGo](https://en.wikipedia.org/wiki/AlphaGo). For more info on this 
  there is now an [excellent movie over on Netflix](https://www.netflix.com/title/80190844) about it.
  
+I remember being so excited whilst the AlphaGo matches were being played & feeling real sorry for Lee Sedol. He made us all proud in match 4 where he was able to outsmart the algorithm & win one for us Humans. 
+
+AlphaGo was a turning point for many people & I was definitely one of them. I has already decided to make machine learning my life's pursuit-but after watching the AlphaGo-Lee Sedol games I wanted to go further.  
+ 
 I had known about [Andrew Ng's](https://en.wikipedia.org/wiki/Andrew_Ng) now classic course since 2012 & thought that
  it would be a great way to round out my knowledge of the many various other machine learning techniques out there.
  
@@ -228,10 +230,37 @@ It was fantastic but extremely painful. For 11 weeks in my spare time after work
 Linear algebra &
  Calculas. Why? You needed to know these topics for the material covered in the course.
  
- In no particular order I learnt about: 
+ In no particular order I got my hands dirty & learnt about: 
  
- Linear Regression, Logisitic Regression, Neural Networks (again!), Support Vector Machines, k-Means & principal 
+ Linear Regression, Logistic Regression, Neural Networks (again!), Support Vector Machines, k-Means clustering & principal 
  component analysis (PCA).
+ 
+ The really great thing is that Andrew Ngs course covered the "Supervised Learning" group of Machine Learning techniques. 
+ 
+ Supervised learning, was & still is where the money is at. :)
+ 
+Still being 2016 & after completing Ng's course - the plan I devised was to move to London & try & do something with Machine Learning. I quit my engineering job, bought a ticket & headed off to the UK on a working holiday visa to try out my luck.
+
+I can't quite put my finger on it, but London did not "vibe" with me. It was grey, cold & besides, the machine learning community was already very well established with [DeepMind](https://deepmind.com/) being based there and all.
+
+I had already done a secondment to Sydney in Nov-Dec 2014 for my engineering job & had fallen in love with the place. "trying to do something with machine learning" in London turned out to be not that great of a plan & after spending 3 months in London, on the 1st of January 2017 I headed back to the land of milk & honey, Sydney Australia.
+
+# 2017                                
+    
+### "The Year of our Lord: Sydney Machine Learning" 
+
+TLDR; our speed dating analysis app is live here:
+
+TLDR; my answers to Harvard Universites CS109 Data Science course is here
+
+At the start of 2017, I read Benjamin Frankin's autobiography. In it, I noticed that he set up these little societies wherever he went about the topic he was interested in the most. I thought that this was very interesting. So on the 14th of February I decided to start my own group "Sydney Machine Learning". If I had decided to make machine learning my life's goal, Sydney Machine Learning's purpose would then act a the forcing function to achieve this.
+
+Sydney Machine Learning was like throwing petrol onto a fire & has been insane in terms of accelerating & broading the depth of my knowledge about all things machine learning. I also hope that through my work in the group - that I have given back to the community too.
+
+
+
+Throwing myself from the Frying pan, into the fire so to speak with the sole objective of 
+ 
  
 
         
@@ -243,7 +272,7 @@ Linear algebra &
     
  
 
-
+From my personal experience, if you are not consistantly learning in the ML field, you will quickly become irrelevant.
 
 I find from experience - to be good at Machine Learning as the field is so vast, you need to be constantly reteaching
  yourself knowledge from all over the field.
