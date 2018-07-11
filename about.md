@@ -40,8 +40,7 @@ If you would like to know more, [Follow me on Twitter](https://twitter.com/paul_
 [TLDR; The GitHub Repo for my Echo State Network project is here](https://github.com/PaulConyngham/Johnny5_ESN_demo)
 
 I first got started in Machine Learning by being thrown into the "Deep" end with my honours thesis project for my
-Electrical Engineering Degree. For this project I used an [Echo State Network (ESN)](http://www.scholarpedia
-.org/article/Echo_state_network), a type of Neural Network ([Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) for the uninitiated), to
+Electrical Engineering Degree. For this project I used an [Echo State Network (ESN)](http://www.scholarpedia.org/article/Echo_state_network), a type of Neural Network ([Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) for the uninitiated), to
 perform control of a virtual agent.
 
 Recurrent Neural Networks (RNNs) are incredibly expensive to train via algorithms such as Backpropagation Through Time
@@ -129,7 +128,7 @@ I went around to 6 different professors at Victoria University, Wellington to tr
 same 
 ideas I had developed for my Echo State Network project of 2009 to control a drone.
 
-![alt text](https://image.ibb.co/dvd5kT/Screen_Shot_2018_06_26_at_10_13_47_pm.png)
+![alt text](https://image.ibb.co/idqSwo/yeeeehaw.png)
 
 Drones however, WERE hyped in 2014 and out of the six machine learning professors that I personally approached, none of 
 them were 
@@ -180,8 +179,7 @@ As you probably guessed, using Genetic Algorithms was a bad idea. Not because Ge
 Having opted to use Genetic Algorithms to train the Neural Networks weights was not a waste of time, as I got to 
 learn 
 about core 
-Genetic Algorithm concepts such as [Fitness Functions](https://en.wikipedia.org/wiki/Fitness_function), [cross-over]
-(https://en.wikipedia.org/wiki/Crossover_(genetic_algorithm)) and [mutation rate](https://en.wikipedia.org/wiki/Mutation_(genetic_algorithm)).
+Genetic Algorithm concepts such as [Fitness Functions](https://en.wikipedia.org/wiki/Fitness_function), [cross-over](https://en.wikipedia.org/wiki/Crossover_(genetic_algorithm)) and [mutation rate](https://en.wikipedia.org/wiki/Mutation_(genetic_algorithm)).
 
 I represented the weights of the neural network as the genome, and created  "a population" of different Neural 
 Networks, all with different genomes - at the start. Over time, the Neural nets (with weights) that perform the best 
@@ -239,7 +237,8 @@ Linear algebra &
  
  Supervised learning, was & still is where the money is at. :)
  
- [![Alt text](https://img.youtube.com/vi/5ZNJPSe1nZs/0.jpg)](https://www.youtube.com/watch?v=5ZNJPSe1nZs)
+ [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5ZNJPSe1nZs/0.jpg)](https://www.youtube.com/watch?v=5ZNJPSe1nZs)
+ 
  Video above: Answers to the Concretely Machine Learning drinking game :)
  
 Still being 2016 & after completing Ng's course - the plan I devised was to move to London & try & do something with Machine Learning. I quit my engineering job, bought a ticket & headed off to the UK on a working holiday visa to try out my luck.
@@ -252,9 +251,9 @@ I had already done a secondment to Sydney in Nov-Dec 2014 for my engineering job
     
 ### "The Year of our Lord: Sydney Machine Learning" 
 
-TLDR; our speed dating analysis app is live here:
+[TLDR; our speed dating analysis app from CS109 is live here:]()
 
-TLDR; my answers to Harvard Universites CS109 Data Science course is here
+[TLDR; my answers to Harvard Universites CS109 Data Science course is here]()
 
 At the start of 2017, I read Benjamin Frankin's autobiography. In it, I noticed that he set up these little societies wherever he went about the topic he was interested in the most. I thought that this was very interesting. So on the 14th of February I decided to start my own group "Sydney Machine Learning". If I had decided to make machine learning my life's goal, Sydney Machine Learning's purpose would then act a the forcing function to achieve this.
 
@@ -262,10 +261,12 @@ Sydney Machine Learning was like throwing petrol onto a fire & has been insane i
 
 Setting up SML was no easy endeavour, as any founder will tell you, I faced an insane amount of rejection. 
 
-I approached many potential speakers & hosts & got rejected,
- 
- 
+First, I had to find a venue. I approached many, and faced a ton of rejection. One day in my lunch break however, I decided to catch a train from St James station in central Sydney Sydney to Redfern. Redfern is the home of [Cicada Innovations](http://cicadainnovations.com/), and is Australia's leading high tech accelerator for Startups. I walked into the main foyer, where I met [Marin](https://www.linkedin.com/in/marin-peplinski-2a69013b/), the head of community at Cicada Innovations. I told her what I was trying to do & she said she would speak to her management about it. The next day I received a call from Marin saying that Cicada would be happy to host SML - and with that we has a venue!
 
+We still needed speakers however. Again, I had approached many people and was beginning to run out of ideas. In one final push I decided to email the entire SML group, saying that we were ready to go but still needed speakers. I was lucky enough to have 
+ 
+ 
+I approached many potential speakers & hosts & got rejected, by all most all. In the process however I got to meet so many interesting people that I would not have otherwise. So in all honesty, the rejection was kind of worth it.
         
             
             
