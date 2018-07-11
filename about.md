@@ -261,25 +261,15 @@ Sydney Machine Learning was like throwing petrol onto a fire & has been insane i
 
 Setting up SML was no easy endeavour, as any founder will tell you, I faced an insane amount of rejection. 
 
-First, I had to find a venue. I approached many, and faced a ton of rejection. One day in my lunch break however, I decided to catch a train from St James station in central Sydney Sydney to Redfern. Redfern is the home of [Cicada Innovations](http://cicadainnovations.com/), and is Australia's leading high tech accelerator for Startups. I walked into the main foyer, where I met [Marin](https://www.linkedin.com/in/marin-peplinski-2a69013b/), the head of community at Cicada Innovations. I told her what I was trying to do & she said she would speak to her management about it. The next day I received a call from Marin saying that Cicada would be happy to host SML - and with that we has a venue!
+First, I had to find a venue. I approached a ton, but many said no. One day in my lunch break however, I decided to catch a train from St James station in central Sydney Sydney to Redfern. Redfern is the home of [Cicada Innovations](http://cicadainnovations.com/), and is Australia's leading high tech accelerator for Startups. I walked into the main foyer, where I met [Marin](https://www.linkedin.com/in/marin-peplinski-2a69013b/), the head of community at Cicada Innovations. I told her what I was trying to do & she said she would speak to her management about it. The next day I received a call from Marin saying that Cicada would be happy to host SML - and with that we has a venue!
 
-We still needed speakers however. Again, I had approached many people and was beginning to run out of ideas. In one final push I decided to email the entire SML group, saying that we were ready to go but still needed speakers. I was lucky enough to have 
+We still needed speakers however. Again, I had approached many people and was beginning to run out of ideas. In one final push I decided to email the entire SML group, saying that we were ready to go but still needed speakers. I was lucky enough to have [Geoff Sims](https://www.linkedin.com/in/geoff-sims-0a37999b/), Principal Data Scientist at Atlassian answer the call. I asked Geoff if he might know anyone else who would be keen to talk too & introduced me to [Chris Tom](https://www.linkedin.com/in/christopher-thom-2a366965/) Data Scientist at Quantium.
  
- 
-I approached many potential speakers & hosts & got rejected, by all most all. In the process however I got to meet so many interesting people that I would not have otherwise. So in all honesty, the rejection was kind of worth it.
-        
-            
-            
-                        
- 
- 
-    
- 
+To prep for our first event I went out & bought two cases of beer which I delivered to Cicada innovations over two lunch break trips on the back of my motorbike.
 
-From my personal experience, if you are not consistantly learning in the ML field, you will quickly become irrelevant.
+We ran our first SML event at Cicada Innovations on May 3rd 2017, to what I could say was a smashing success. Both the speakers nailed it, Geoff spoke about the technical side of how he had applied [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) to some work he had done for Woolworths & Chris talked about the machine learning in production side of things. That is how SML got started & we have [continued to run events ever since!](https://www.meetup.com/Sydney-Machine-Learning/events/past/?scroll=true)
 
-I find from experience - to be good at Machine Learning as the field is so vast, you need to be constantly reteaching
- yourself knowledge from all over the field.
+
 
 ### Contact me
 
