@@ -8,7 +8,7 @@ permalink: /about/
 
 Hi i'm Paul, a Machine Learning Engineer, Founder of the Sydney Machine Learning group & StarAi project lead.
 
-My current focus is on applying Deep Learning to building Strata apartment blocks metering data to detect existing
+I like to employ machine learning methods on novel applications. My current focus is on applying Deep Learning to building Strata apartment blocks metering data to detect existing
 building services.
 
 Outside of this I actively performing research in the field of Deep Reinforcement Learning for the StarAi project &
@@ -201,7 +201,7 @@ using Linear Algebra (matrices) instead of plain old objects to do everything. T
 
 [TLDR; the GitHub repo to my MATLAB answers to Andrew Ng's classic machine learning course is here](https://github.com/PaulConyngham/Andrew-NG-Machine-Learning)
 
-[TLDR; the Github repo for my notes on Andrew NGs course are here]()
+[TLDR; the Github repo for my notes on Andrew NGs course are here](https://github.com/PaulConyngham/AndrewNG-MachineLearning-Notes)
                                                                            
 The bizarre thing about the NeuroEvolution project was that in 2014-2015, I was just quitley humming away doing 
 Machine Learning in my basement (not quite, but you know what I mean). I remember going to a party in 2015 and telling 
@@ -239,6 +239,9 @@ Linear algebra &
  
  Supervised learning, was & still is where the money is at. :)
  
+ [![Alt text](https://img.youtube.com/vi/5ZNJPSe1nZs/0.jpg)](https://www.youtube.com/watch?v=5ZNJPSe1nZs)
+ Video above: Answers to the Concretely Machine Learning drinking game :)
+ 
 Still being 2016 & after completing Ng's course - the plan I devised was to move to London & try & do something with Machine Learning. I quit my engineering job, bought a ticket & headed off to the UK on a working holiday visa to try out my luck.
 
 I can't quite put my finger on it, but London did not "vibe" with me. It was grey, cold & besides, the machine learning community was already very well established with [DeepMind](https://deepmind.com/) being based there and all.
@@ -257,9 +260,9 @@ At the start of 2017, I read Benjamin Frankin's autobiography. In it, I noticed 
 
 Sydney Machine Learning was like throwing petrol onto a fire & has been insane in terms of accelerating & broading the depth of my knowledge about all things machine learning. I also hope that through my work in the group - that I have given back to the community too.
 
+Setting up SML was no easy endeavour, as any founder will tell you, I faced an insane amount of rejection. 
 
-
-Throwing myself from the Frying pan, into the fire so to speak with the sole objective of 
+I approached many potential speakers & hosts & got rejected,
  
  
 
